@@ -30,6 +30,5 @@
         "tema" : "lyd",
         "spørsmål" : "Hva skjer med lyden til en lydfil som er komprimert med tap",
         "svar" : "blir hakkete",
-        "alternativ": ["spiller raskere", "spiller saktere", "spiller baklengs", "bilr hakkete"]
     }
 ]
