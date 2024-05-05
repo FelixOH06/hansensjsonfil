@@ -1,34 +1,38 @@
 [
     {
-        "tema": "bilde",
-        "spørsmål" : "Hvilket tall represnterer sort i binær kode?",
-        "svar": "1",
+        "tema": "Bilde",
+        "spørsmål" : "Hva står RBG for?",
+        "svar": "Rød, Blå, Grønn"
     },
 
     {
-        "tema": "bilde",
-        "spørsmål" : "Hvilket tall represnterer hvit i binær kode?",
-        "svar": "0",
+        "tema" : "Video",
+        "spørsmål" : "Hva er dne mest vanlige årsaken til at en video får dårlig oppløsning?",
+        "svar" : "Lavkvalitetskamera"
     },
 
     {
-        "tema" : "bilde",
-        "spørsmål" : "Skriv forkortelsen til en tapsfri kompresjon av bilder",
-        "svar" : "RLE",
+        "tema" : "Lyd",
+        "spørsmål" : "Hva brukes til å analysere lyd?",
+        "svar" : "Algoritmer"
+
     },
     {
-        "tema" : "video",
-        "spørsmål" : "Hva står fps for på norsk?",
-        "svar" : "bilder per sekund",
+        "tema" : "Lyd",
+        "spørsmål" : "Nevn tre ting som algoritmer brukes til:",
+        "svar" : "Analysere, bearbeide og syntentisere lyd."
+
     },
     {
         "tema" : "Video",
-        "spørsmål" : "Hvor mye megabit krever per bilde i en oppløsning av 1920*1080?",
-        "svar" : "50",
+        "spørsmål" : "Hvilet er de tre beste videoredigeringsprogrammene, ifølge denne nettsiden?",
+        "svar" : "Adobe Premier Pro, DaVinciResolve og Final Cut Pro X "
+
     },
     {
-        "tema" : "lyd",
-        "spørsmål" : "Hva skjer med lyden til en lydfil som er komprimert med tap",
-        "svar" : "blir hakkete",
+        "tema" : "Video",
+        "spørsmål" : "Hva er den beste pixler du kan se en video fra?",
+        "svar" : "1080p"
+
     }
 ]
